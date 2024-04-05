@@ -16,7 +16,7 @@ void input(){
     }
 
     // accept array elements
-    cout << "--------------------\n";
+    cout << "\n--------------------\n";
     cout << "Enter Array Elements \n";
     cout << "--------------------\n"
 }
